@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\bin\Debug\Gorsel_Bahis_Uygulamasi.exe.config
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\bin\Debug\Gorsel_Bahis_Uygulamasi.exe
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\bin\Debug\Gorsel_Bahis_Uygulamasi.pdb
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.Bahis.resources
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.Kaydolma.resources
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.Giris.resources
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.exe
+C:\Users\lenovo\source\repos\Gorsel_Bahis_Uygulamasi\Gorsel_Bahis_Uygulamasi\obj\Debug\Gorsel_Bahis_Uygulamasi.pdb
